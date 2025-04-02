@@ -1,0 +1,3 @@
+na pasta trabalho2ppp_gabrielgarcia:
+javac observer/Main.java
+java observer/Main

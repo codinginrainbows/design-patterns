@@ -1,0 +1,3 @@
+na pasta trabalho1ppp_gabrielgarcia:
+javac strategy/Main.java
+java strategy/Main

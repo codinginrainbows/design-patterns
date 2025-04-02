@@ -1,0 +1,10 @@
+id,nome,descricao,preco,categoria,em_estoque
+1,"Console","Ultima geracao",2999.99,"Consoles",true
+2,"Controle","Controle sem fio",499.50,"Acessorios",true
+3,"Headset","Cancelamento de ruido, bateria boa",749.99,"Acessorios",false
+4,"Cadeira","Ergonomica, ajuste de altura",1349.95,"Mobilia",true
+5,"Teclado Mecanico","Switches RGB",459.00,"Perifericos",true
+7,"Smartwatch","GPS integrado",799.50,"Acessorios",false
+8,"Mousepad","Antiderrapante",129.99,"Perifericos",true
+9,"Volante","Simulador de corrida",999.00,"Acessorios",true
+10,"Funko","Edição especial",99.95,"Enfeite",true
